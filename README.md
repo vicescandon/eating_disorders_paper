@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 Applied economics working paper, previously thesis to obtain bachelor's economics degree. Advised by Dr. Francisco Cabrebra-Hernádez. Abstract attached as an image and scripts as files.
+Complete draft available upon request.
 <br />
 
 
