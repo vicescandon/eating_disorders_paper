@@ -1,7 +1,7 @@
 <h1> Working Paper: "What is the effect of the internet on eating disorder behaviors among Mexican youth?" </h1>
 
 <h2>Description</h2>
-Applied economics working paper, previously thesis to obtain bachelor's economics degree. Advised by Dr. Francisco Cabrebra-Hernádez. Abstract attached as an image and scripts as files.
+Applied economics working paper, previously thesis to obtain bachelor's economics degree. Advised by Dr. Francisco Cabrebra-Hernádez. Abstract attached as an image.
 
 Scripts from cleaning data available upon request.
 <br />
