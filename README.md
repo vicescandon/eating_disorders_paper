@@ -16,4 +16,4 @@ Scripts from cleaning data available upon request.
 
 <p align="center">
 Abstract: <br/>
-<img src="https://i.imgur.com/7AcarjC.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gNZ1PSR"/>
