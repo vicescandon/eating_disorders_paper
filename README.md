@@ -16,4 +16,4 @@ Scripts from cleaning data available upon request.
 
 <p align="center">
 Abstract: <br/>
-<img src="https://imgur.com/gNZ1PSR"/>
+<img src="(https://imgur.com/gNZ1PSR)"/>
