@@ -3,7 +3,7 @@
 <h2>Description</h2>
 Applied economics working paper, previously thesis to obtain bachelor's economics degree. Coauthor: Dr. Francisco Cabrebra-Hernádez. Abstract attached as an image.
 
-Scripts from cleaning data available upon request.
+Scripts from cleaning data and pre-print version of manuscript available upon request.
 <br />
 
 
