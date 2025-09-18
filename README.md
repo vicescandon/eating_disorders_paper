@@ -16,5 +16,5 @@ Scripts from cleaning data and pre-print version of manuscript available upon re
 
 <p align="center">
 Abstract: <br/>
-<img src="https://i.imgur.com/IMAGE_ID.png" alt="Alt text" width="600"/>
+<img src="https://imgur.com/a/z6GD0md" alt="Alt text" width="600"/>
 
