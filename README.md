@@ -1,4 +1,4 @@
-<h1> Working Paper: "What is the effect of the internet on eating disorder behaviors among Mexican youth?" </h1>
+<h1> Working Paper: "Peers, Feeds, and Food: the effect of internet access on eating disorders among teenagers" </h1>
 
 <h2>Description</h2>
 Applied economics working paper, previously thesis to obtain bachelor's economics degree. Coauthor: Dr. Francisco Cabrebra-Hernádez. Abstract attached as an image.
